@@ -1,0 +1,26 @@
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\bin\Debug\_2_ATB_WPF.exe.config
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\bin\Debug\_2_ATB_WPF.exe
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\bin\Debug\_2_ATB_WPF.pdb
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\MainWindow.baml
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\MainWindow.g.cs
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\App.g.cs
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF_MarkupCompile.cache
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.g.resources
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.Properties.Resources.resources
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.csproj.GenerateResource.Cache
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.exe
+D:\My\IT\ШАГ\12 WPF\HomeWork\2\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.pdb
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\bin\Debug\_2_ATB_WPF.exe.config
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.exe
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.pdb
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\bin\Debug\_2_ATB_WPF.exe
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\bin\Debug\_2_ATB_WPF.pdb
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.csprojResolveAssemblyReference.cache
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\MainWindow.baml
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\MainWindow.g.cs
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\App.g.cs
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF_MarkupCompile.cache
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.g.resources
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.Properties.Resources.resources
+D:\My\IT\ШАГ\temp\_2_ATB_WPF\_2_ATB_WPF\obj\Debug\_2_ATB_WPF.csproj.GenerateResource.Cache

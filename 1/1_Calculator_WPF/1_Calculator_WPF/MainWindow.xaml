@@ -1,0 +1,54 @@
+﻿<Window x:Class="_1_Calculator_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF Calculator" Height="525" Width="525">
+
+    <Grid Background="Gray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Margin="25" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBox Name="textBoxResult" HorizontalContentAlignment="Right" TextWrapping="Wrap" Text="0" FontSize="72" Background="#FFDF3FF3" TextDecorations="{x:Null}" FontWeight="Bold">
+            </TextBox>
+        </Grid>
+
+        <UniformGrid Rows="5" Grid.Column="1" Grid.Row="1">
+            <Button  Content="CA Step Pictures" Background="Orange" Margin="5"/>
+            <Button x:Name="b2" Content="" Background="Cyan" Margin="5"/>
+            <Button x:Name="b3" Content="" Background="Cyan" Margin="5"/>
+            <Button x:Name="b5" Content="" Background="Cyan" Margin="5"/>
+            <Button x:Name="b4" Content="" Background="Cyan" Margin="5" FontSize="40"/>
+            <Button x:Name="b6" Content="+/-" Background="Tomato" Margin="5" FontSize="33" Click="b6_Click"/>
+            <Button x:Name="b7" Content="0" Background="Tomato" Margin="5" FontSize="33" Click="b7_Click"/>
+            <Button x:Name="b8" Content="." Background="Tomato" Margin="5" FontSize="33" Click="b8_Click"/>
+            <Button x:Name="bSqrt" Content="sqrt" Background="Cyan" Margin="5" FontSize="21" Click="bSqrt_Click"/>
+            <Button x:Name="bDivision1ToX" Content="1/x" Background="Cyan" Margin="5" FontSize="21" Click="bDivision1ToX_Click"/>
+
+            <Button x:Name="b11" Content="1" Background="Tomato" Margin="5" FontSize="33" Click="b11_Click"/>
+            <Button x:Name="b12" Content="2" Background="Tomato" Margin="5" FontSize="33" Click="b12_Click"/>
+            <Button x:Name="b13" Content="3" Background="Tomato" Margin="5" FontSize="33" Click="b13_Click"/>
+            <Button x:Name="bPlus" Content="+" Background="Cyan" Margin="5" FontSize="33" Click="bPlus_Click"/>
+            <Button x:Name="bMinus" Content="-" Background="Cyan" Margin="5" FontSize="33" Click="bMinus_Click"/>
+            <Button x:Name="b16" Content="4" Background="Tomato" Margin="5" FontSize="33" Click="b16_Click"/>
+            <Button x:Name="b17" Content="5" Background="Tomato" Margin="5" FontSize="33" Click="b17_Click"/>
+            <Button x:Name="b18" Content="6" Background="Tomato" Margin="5" FontSize="33" Click="b18_Click"/>
+            <Button x:Name="bMultiplication" Content="*" Background="Cyan" Margin="5" FontSize="33" Click="bMultiplication_Click"/>
+            <Button x:Name="bDivision" Content="/" Background="Cyan" Margin="5" FontSize="33" Click="bDivision_Click"/>
+
+            <Button x:Name="b21" Content="7" Background="Tomato" Margin="5" FontSize="33" Click="b21_Click"/>
+            <Button x:Name="b22" Content="8" Background="Tomato" Margin="5" FontSize="33" Click="b22_Click"/>
+            <Button x:Name="b23" Content="9" Background="Tomato" Margin="5" FontSize="33" Click="b23_Click"/>
+            <Button x:Name="bClear" Content="C" Background="GreenYellow" Margin="5" FontSize="33" Click="bClear_Click"/>
+            <Button x:Name="bResult" Content="=" Background="GreenYellow" Margin="5" FontSize="33" Click="bResult_Click"/>
+        </UniformGrid>
+    </Grid>
+</Window>

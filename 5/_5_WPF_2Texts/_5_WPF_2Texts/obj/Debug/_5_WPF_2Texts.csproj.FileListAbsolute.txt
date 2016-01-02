@@ -1,0 +1,13 @@
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\bin\Debug\_5_WPF_2Texts.exe.config
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\bin\Debug\_5_WPF_2Texts.exe
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\bin\Debug\_5_WPF_2Texts.pdb
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\_5_WPF_2Texts.csprojResolveAssemblyReference.cache
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\MainWindow.baml
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\MainWindow.g.cs
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\App.g.cs
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\_5_WPF_2Texts_MarkupCompile.cache
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\_5_WPF_2Texts.g.resources
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\_5_WPF_2Texts.Properties.Resources.resources
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\_5_WPF_2Texts.csproj.GenerateResource.Cache
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\_5_WPF_2Texts.exe
+D:\My\IT\STEP\12 WPF\HomeWork\5\_5_WPF_2Texts\_5_WPF_2Texts\obj\Debug\_5_WPF_2Texts.pdb
